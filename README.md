@@ -114,7 +114,7 @@ ___
 
 # Links & Resources
 ### **Download** v1.0.0: 
-[MyReplicatedService.lua|attachment](upload://9vcOaHVeu4MGJsYUN3Wz0Tw59FU.lua) (7.9 KB)
+<a href="https://github.com/Sub2Nex/MyReplicatedService/releases/download/v1.0.0/MyReplicatedService.lua" download>Download</a>
 
 ### **GitHub**:
 https://github.com/Sub2Nex/MyReplicatedService
