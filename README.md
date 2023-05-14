@@ -1,7 +1,6 @@
 # MyReplicatedService.lua Documentation
+![image_2023-05-14_225152770|33x36](upload://4ycGIgfRtX8Ve4GrRH8NEsBKVTE.png) | **Created by DecentAgent**
 ___
-<img src="https://devforum.roblox.com/secure-uploads/uploads/original/5X/6/0/b/6/60b6f0ffed2ca88be60f2003eadb85bfa5898efe.jpeg" alt="template (3)" width="690" height="362" class="resizable" loading="lazy" style="aspect-ratio: 690 / 362;">
-
 The `MyReplicatedService.lua` file is a Lua module that provides a set of functions for creating and managing remote events and functions in Roblox games. This module is designed to be used in conjunction with Roblox's ReplicatedStorage service.
 
 This release may include many bugs, and it's not entirely stable.
@@ -114,9 +113,11 @@ Fetches an existing bindable event with the given name.
 ___
 
 # Links & Resources
-**Download** v1.0.0: 
+### **Download** v1.0.0: 
 [MyReplicatedService.lua|attachment](upload://9vcOaHVeu4MGJsYUN3Wz0Tw59FU.lua) (7.9 KB)
 
+### **GitHub**:
+https://github.com/Sub2Nex/MyReplicatedService
 
 ___
 # Support Me
